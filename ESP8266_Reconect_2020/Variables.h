@@ -25,10 +25,10 @@
 //   База переменных для подключения   //
 
 // Логин и пароль от WiFi
-String _ssid     = "MTS_sib.eng24"; // Для хранения SSID
-String _password = "2404498A"; // Для хранения пароля сети
+String _ssid     = "ssidssis"; // Для хранения SSID
+String _password = "password"; // Для хранения пароля сети
 
 // Ключ Blynk
-String _authB = "1bceb51ed96648b199df791079c176c6";    // AUTH токен Blynk
+String _authB = "11112222333344445555666677778888";    // AUTH токен Blynk
 String _serverB = "blynk-cloud.com";                   // Сервер Blynk "blynk-cloud.com"
 String _portB = "8080";                                // Порт сервера Blynk "8080"
